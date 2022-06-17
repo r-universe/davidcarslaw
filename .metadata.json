@@ -1,0 +1,10 @@
+[
+  {
+    "package": "openair",
+    "oncran": true
+  },
+  {
+    "package": "worldmet",
+    "oncran": true
+  }
+]
