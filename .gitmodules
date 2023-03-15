@@ -8,13 +8,13 @@
 	url = https://github.com/davidcarslaw/openair
 	shallow = true
 	registered = true
-[submodule "openairmaps"]
-	path = openairmaps
-	url = https://github.com/davidcarslaw/openairmaps
-	shallow = true
-	registered = true
 [submodule "worldmet"]
 	path = worldmet
 	url = https://github.com/davidcarslaw/worldmet
+	shallow = true
+	registered = true
+[submodule "openairmaps"]
+	path = openairmaps
+	url = https://github.com/davidcarslaw/openairmaps
 	shallow = true
 	registered = true

@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "openairmaps",
+    "package": "worldmet",
     "oncran": true
   },
   {
-    "package": "worldmet",
+    "package": "openairmaps",
     "oncran": true
   }
 ]
